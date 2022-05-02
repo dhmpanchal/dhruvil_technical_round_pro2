@@ -1,0 +1,9 @@
+project/migrations/
+project/__pycache__/
+account/migrations/
+account/__pycache__/
+media/
+env/
+.vscode/
+.env
+db.sqlite3
